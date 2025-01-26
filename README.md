@@ -4,7 +4,7 @@ Este repositorio contiene las prácticas desarrolladas para la asignatura **Visi
 
 ## Contenido del repositorio 📂
 - Práctica 1 : Procesamiento de imágenes
-- Práctica 2 : 
+- Práctica 2 : Deep Learning
 - Práctica 3 :
 
 ## Consideraciones
