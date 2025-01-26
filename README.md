@@ -8,5 +8,5 @@ Este repositorio contiene las prácticas desarrolladas para la asignatura **Visi
 - Práctica 3 :
 
 ## Consideraciones
-- Dentro del directorio asociado a cada práctica, podrás encontrar tanto el **código fuente escrito en Python**, como un **PDF** resumiendo los ejercicios que se han realizado a lo largo de la práctica, visualizando los resultados obtenidos.
+- Dentro del directorio asociado a cada práctica, podrás encontrar tanto el **código fuente escrito en Python**, como un archivo **README.md** comentando brevemente los ejercicios que se han realizado a lo largo de la práctica.
 - El código ha sido implementado usando **Google Collab**, y debidamente explicado durante su desarrollo.
