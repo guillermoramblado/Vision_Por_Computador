@@ -7,4 +7,4 @@ Este repositorio contiene las prácticas desarrolladas para la asignatura **Visi
 - Práctica 2 : 
 - Práctica 3 : 
 
-Dentro del directorio asociado a cada práctica, podrás encontrar tanto el código fuente escrito en Python, como un archivo **README.md** resumiendo el desarrollo realizado en dicha práctica.
+Dentro del directorio asociado a cada práctica, podrás encontrar tanto el código fuente escrito en Python, como un PDF resumiendo los ejercicios que se han realizado a lo largo de la práctica, visualizando los resultados obtenidos.
