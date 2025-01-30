@@ -1,11 +1,12 @@
 # Prácticas de Visión por Computador 🖥️📸
 
-Este repositorio contiene las prácticas desarrolladas para la asignatura **Visión por Computador**.
+Este repositorio contiene las prácticas desarrolladas para la asignatura **Visión por Computador**, además del proyecto final realizado.
 
 ## Contenido del repositorio 📂
 - Práctica 1 : **Procesamiento de imágenes**
 - Práctica 2 : **Deep Learning**
 - Práctica 3 : **Extracción (y Emparejamiento) de Características y Registrado de Imágenes**
+- Proyecto Final : **Segmentación de Zonas Infectadas de Hojas**
 
 ## Consideraciones 👀
 - Dentro del directorio asociado a cada práctica, podrás encontrar tanto el **código fuente escrito en Python**, como un archivo **README.md** comentando brevemente los ejercicios que se han realizado a lo largo de la práctica.
